@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jk10ik
+- 👋 Hi, I’m Junaid khan short(@Jk10ik)
 - 👀 I’m interested in all the new and emerging techs: esp front+backend languages.
 - 🌱 I’m currently learning front+backend languages.
 - 💞️ I’m looking to collaborate on websites , web-apps and mobile-apps dev.
